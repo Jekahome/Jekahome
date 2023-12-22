@@ -1,7 +1,7 @@
 <h2 align="center">I'm interested</h2>
 <p align="center">
   <picture>
-    <img alt="Skill list" src="https://skillicons.dev/icons?i=rust,cpp,cs,js,py,bash,powershell,nodejs,linux,docker,mysql,md,arduino,raspberry,git,github,figma&perline=9">
+    <img alt="Skill list" src="https://skillicons.dev/icons?i=rust,actix,raspberrypi,arduino,bash,c,git,github,graphql,ai,js,linux,md,postgres,sqlite&perline=5">
   </picture>
 </p>
 
