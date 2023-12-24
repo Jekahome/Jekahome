@@ -1,12 +1,12 @@
+🔭 I’m currently working on [Data-Structures](https://github.com/Jekahome/Data-Structures)
+
 <h2 align="center">I'm interested</h2>
 <p align="center">
   <picture>
     <img alt="Skill list" src="https://skillicons.dev/icons?i=rust,actix,raspberrypi,arduino,bash,c,git,github,graphql,ai,js,linux,md,postgres,sqlite&perline=5">
   </picture>
 </p>
-
-🔭 I’m currently working on [Data-Structures](https://github.com/Jekahome/Data-Structures)
-
+ 
 <!--
 **Jekahome/Jekahome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
