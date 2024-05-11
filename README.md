@@ -1,4 +1,4 @@
-🔭 I’m currently working on [Data-Structures](https://github.com/Jekahome/Data-Structures)
+🔭 I’m currently working on [grammar_of_english](https://github.com/Jekahome/grammar_of_english)
 
 <h2 align="center">I'm interested</h2>
 <p align="center">
