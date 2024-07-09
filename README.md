@@ -9,7 +9,7 @@
 
  <p align="center"> 
   <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jekahome&layout=donut&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api?username=jekahome&theme=onedark&show_icons=ture" />
+  <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api?username=jekahome&theme=onedark&show_icons=true" />
   <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jekahome&layout=compact&theme=onedark" />
 </p>
  
