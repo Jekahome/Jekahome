@@ -10,9 +10,9 @@
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Protocol UDP](https://github.com/Jekahome/UDP_Rust_example) - Example of working with UDP protocol
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Protocol TCP](https://github.com/Jekahome/TCP_Rust_example) - Example of working with TCP protocol
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Protocol gRPC](https://github.com/Jekahome/gRPC_example) - Example of working with gRPC protocol
-- [Protocol Websockets](https://github.com/Jekahome/Websockets_Rust_example) - Example of working with Websockets protocol
-- [WebAssembly example](https://github.com/Jekahome/WebAssembly_Example) - Examples of working with WebAssembly 
-- [DB Diesel](https://github.com/Jekahome/DB_Diesel_Actor_Actix_example) - Examples of working with ORM Diesel
+- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Protocol Websockets](https://github.com/Jekahome/Websockets_Rust_example) - Example of working with Websockets protocol
+- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [WebAssembly](https://github.com/Jekahome/WebAssembly_Example) - Examples of working with WebAssembly 
+- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [DB Diesel](https://github.com/Jekahome/DB_Diesel_Actor_Actix_example) - Examples of working with ORM Diesel
 - [Basic Python syntax](https://github.com/Jekahome/Python_Example) - Basic Python syntax
 - [OpenCV example](https://github.com/Jekahome/OpenCV_example) - Examples of working with OpenCV
 
