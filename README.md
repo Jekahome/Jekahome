@@ -3,7 +3,7 @@ A proponent of 'character leveling in reality'. Developing character and skills 
 
 🔭 I’m currently working on [grammar_of_english](https://github.com/Jekahome/grammar_of_english)
 
-## Knowledge that is important to me
+## 🛠️ Knowledge that is important to me
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Patterns](https://github.com/Jekahome/Patterns) - Pattern implementations and approaches to code organization
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Testing](https://github.com/Jekahome/Testing-in-Rust) - How to organize testing in Rust development
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Data structures](https://github.com/Jekahome/Data-Structures) - Implementation and understanding of data structures
@@ -20,19 +20,36 @@ A proponent of 'character leveling in reality'. Developing character and skills 
 - [OpenCV](https://github.com/Jekahome/OpenCV_example) - Examples of working with OpenCV
 
   
-<h2 align="center">I'm interested</h2>
+ 
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-  <picture>
-    <img alt="Skill list" src="https://skillicons.dev/icons?i=rust,actix,raspberrypi,arduino,bash,c,git,github,graphql,ai,js,linux,md,postgres,sqlite&perline=5">
-  </picture>
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <b>I'm interested</b><br>
+        <picture>
+          <img alt="Skill list" src="https://skillicons.dev/icons?i=rust,actix,bash,c,git,github,graphql,ai,js,wasm,py,linux,md,postgres,sqlite,mysql,mint,opencv,rabbitmq,ros,raspberrypi,arduino,vscode,cpp&perline=6">
+        </picture>
+      </td>
+      <td width="50%" align="center">      
+          <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jekahome&layout=donut&show_icons=true&theme=onedark" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+         <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api?username=jekahome&theme=onedark&show_icons=true" />
+      </td>
+      <td width="50%" align="center">
+          <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jekahome&layout=compact&theme=onedark" />
+      </td>
+    </tr>
+  </table>
 </p>
 
- <p align="center"> 
-  <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jekahome&layout=donut&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api?username=jekahome&theme=onedark&show_icons=true" />
-  <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jekahome&layout=compact&theme=onedark" />
-</p>
- 
+
 <!--
 **Jekahome/Jekahome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
