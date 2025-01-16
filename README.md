@@ -1,6 +1,9 @@
+# About Me
+A proponent of 'character leveling in reality'. Developing character and skills in real life can be more challenging than in games 😄, but the concept of visual progress and skill maps is a great way to stay motivated.
+
 🔭 I’m currently working on [grammar_of_english](https://github.com/Jekahome/grammar_of_english)
 
-### Knowledge that is important to me
+## Knowledge that is important to me
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Patterns](https://github.com/Jekahome/Patterns) - Pattern implementations and approaches to code organization
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Testing](https://github.com/Jekahome/Testing-in-Rust) - How to organize testing in Rust development
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Data structures](https://github.com/Jekahome/Data-Structures) - Implementation and understanding of data structures
