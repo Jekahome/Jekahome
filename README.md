@@ -3,15 +3,15 @@
 ### Knowledge that is important to me
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Patterns](https://github.com/Jekahome/Patterns) - Pattern implementations and approaches to code organization
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Testing](https://github.com/Jekahome/Testing-in-Rust) - How to organize testing in Rust development
-- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Data-Structures](https://github.com/Jekahome/Data-Structures) - Implementation and understanding of data structures
+- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Data structures](https://github.com/Jekahome/Data-Structures) - Implementation and understanding of data structures
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Algorithms](https://github.com/Jekahome/Algorithms) - Implementing algorithms and understanding complexity
-- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Security-Web](https://github.com/Jekahome/Security-Web) - OWASP Overview
+- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Security Web](https://github.com/Jekahome/Security-Web) - OWASP Overview
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Protocol TCP](https://github.com/Jekahome/TCP_Rust_example) - Example of working with TCP protocol
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Protocol UDP](https://github.com/Jekahome/UDP_Rust_example) - Example of working with UDP protocol
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Protocol gRPC](https://github.com/Jekahome/gRPC_example) - Example of working with gRPC protocol
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Protocol Websockets](https://github.com/Jekahome/Websockets_Rust_example) - Example of working with Websockets protocol
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [WebAssembly](https://github.com/Jekahome/WebAssembly_Example) - Examples of working with WebAssembly
-- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [Actix-Web-Request-and-Response](https://github.com/Jekahome/Actix-Web-Request-and-Response) - Actix-Web implementations of Request and Response handlers
+- ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [ActixWeb Request Response](https://github.com/Jekahome/Actix-Web-Request-and-Response) - Actix-Web implementations of Request and Response handlers
 - ![Rust logo](https://www.rust-lang.org/logos/rust-logo-16x16-blk.png) [DB Diesel](https://github.com/Jekahome/DB_Diesel_Actor_Actix_example) - Examples of working with ORM Diesel
 - [Basic Python syntax](https://github.com/Jekahome/Python_Example) - Basic Python syntax
 - [OpenCV](https://github.com/Jekahome/OpenCV_example) - Examples of working with OpenCV
