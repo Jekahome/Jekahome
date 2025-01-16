@@ -14,10 +14,10 @@ A proponent of 'character leveling in reality'. Developing character and skills 
 - ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[Protocol gRPC](https://github.com/Jekahome/gRPC_example) - Example of working with gRPC protocol
 - ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[Protocol Websockets](https://github.com/Jekahome/Websockets_Rust_example) - Example of working with Websockets protocol
 - ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[WebAssembly](https://github.com/Jekahome/WebAssembly_Example) - Examples of working with WebAssembly
-- ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[ActixWeb Request Response](https://github.com/Jekahome/Actix-Web-Request-and-Response) - Actix-Web implementations of Request and Response handlers
+- ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[Actix-Web Request Response](https://github.com/Jekahome/Actix-Web-Request-and-Response) - Actix-Web implementations of Request and Response handlers
 - ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[DB Diesel](https://github.com/Jekahome/DB_Diesel_Actor_Actix_example) - Examples of working with ORM Diesel
 - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;[Basic Python syntax](https://github.com/Jekahome/Python_Example) - Basic Python syntax
-- ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)[OpenCV]&nbsp;(https://github.com/Jekahome/OpenCV_example) - Examples of working with OpenCV
+- ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;[OpenCV](https://github.com/Jekahome/OpenCV_example) - Examples of working with OpenCV
 
   
  
