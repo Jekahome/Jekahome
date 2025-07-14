@@ -40,7 +40,7 @@ A proponent of 'character leveling in reality'. Developing character and skills 
     </tr>
     <tr>
       <td width="50%" align="center">
-         <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api?username=jekahome&theme=onedark&show_icons=true" />
+         <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api?username=jekahome&theme=onedark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged" />
       </td>
       <td width="50%" align="center">
           <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jekahome&layout=compact&theme=onedark" />
