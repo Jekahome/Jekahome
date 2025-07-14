@@ -40,15 +40,18 @@ A proponent of 'character leveling in reality'. Developing character and skills 
     </tr>
     <tr>
       <td width="50%" align="center">
-         <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api?username=jekahome&theme=onedark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged" />
+         <img alt="github stats" height="300px" src="https://github-readme-stats.vercel.app/api?username=jekahome&theme=onedark&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged" />
       </td>
       <td width="50%" align="center">
-          <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=jekahome&layout=compact&theme=onedark" />
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jekahome&range=last_7_days&theme=onedark&layout=compact" />
       </td>
     </tr>
   </table>
 </p>
-  
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=jekahome&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **Jekahome/Jekahome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
