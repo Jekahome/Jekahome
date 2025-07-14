@@ -48,15 +48,7 @@ A proponent of 'character leveling in reality'. Developing character and skills 
     </tr>
   </table>
 </p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jekahome&repo=TCP_Rust_example&show_owner=true)](https://github.com/Jekahome/TCP_Rust_example)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jekahome&repo=UDP_Rust_example&show_owner=true)](https://github.com/Jekahome/UDP_Rust_example)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jekahome&repo=gRPC_example&show_owner=true)](https://github.com/Jekahome/gRPC_example)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jekahome&repo=Websockets_Rust_example&show_owner=true)](https://github.com/Jekahome/Websockets_Rust_example)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jekahome&repo=WebAssembly_Example&show_owner=true)](https://github.com/Jekahome/WebAssembly_Example)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jekahome&repo=Actix-Web-Request-and-Response&show_owner=true)](https://github.com/Jekahome/Actix-Web-Request-and-Response)
-
-
+  
 <!--
 **Jekahome/Jekahome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
