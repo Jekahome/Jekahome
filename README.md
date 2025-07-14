@@ -49,8 +49,6 @@ A proponent of 'character leveling in reality'. Developing character and skills 
   </table>
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jekahome&repo=TCP_Rust_example)](https://github.com/Jekahome/TCP_Rust_example)
-
 <!--
 **Jekahome/Jekahome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
