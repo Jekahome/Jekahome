@@ -1,6 +1,8 @@
 # About Me
 A proponent of 'character leveling in reality'. Developing character and skills in real life can be more challenging than in games 😄, but the concept of visual progress and skill maps is a great way to stay motivated.
 
+♻️ The zombie movie I was completely satisfied with hasn't come out yet.
+
 🔭 I’m currently working on [grammar_of_english](https://github.com/Jekahome/grammar_of_english)
 
 ## 🛠️ Knowledge that is important to me 
@@ -28,6 +30,11 @@ A proponent of 'character leveling in reality'. Developing character and skills 
 
 <p align="center">
   <table align="center">
+      <tr border="none">
+         <td align="center" colspan="2">
+           <img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jekahome&theme=onedark"/>
+         </td>
+    </tr>
     <tr border="none">
       <td width="50%" align="center">
         <b>I'm interested</b><br>
@@ -36,7 +43,7 @@ A proponent of 'character leveling in reality'. Developing character and skills 
         </picture>
       </td>
       <td width="50%" align="center">      
-          <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jekahome&layout=donut&show_icons=true&theme=onedark" />
+          <img alt="Top Langs" width="100%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jekahome&layout=donut&show_icons=true&theme=onedark" />
       </td>
     </tr>
     <tr>
@@ -49,10 +56,10 @@ A proponent of 'character leveling in reality'. Developing character and skills 
     </tr>
     <tr>
       <td width="50%" align="center">
-         <img alt="Top Languages by Repo" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jekahome&theme=onedark&include_orgs=true" />
+         <img alt="Top Languages by Repo" width="100%" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jekahome&theme=onedark&include_orgs=true" />
       </td>
       <td width="50%" align="center">
-         <img alt="Top Languages by Commit" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jekahome&theme=onedark&include_orgs=true" />
+         <img alt="Top Languages by Commit" width="100%" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jekahome&theme=onedark&include_orgs=true" />
       </td>
     </tr>
   </table>
