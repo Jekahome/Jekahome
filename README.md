@@ -49,10 +49,10 @@ A proponent of 'character leveling in reality'. Developing character and skills 
     </tr>
     <tr>
       <td width="50%" align="center">
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jekahome&theme=default&include_orgs=true)
+        ![Top Languages by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jekahome&theme=default&include_orgs=true)
       </td>
       <td width="50%" align="center">
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jekahome&theme=default&include_orgs=true)
+        ![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jekahome&theme=default&include_orgs=true)
       </td>
     </tr>
   </table>
