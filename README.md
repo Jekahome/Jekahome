@@ -3,7 +3,7 @@ A proponent of 'character leveling in reality'. Developing character and skills 
 
 ♻️ The zombie movie I was completely satisfied with hasn't come out yet.
 
-🔭 I’m currently working on [grammar_of_english](https://github.com/Jekahome/grammar_of_english)
+🔭 I’m currently working on [Computer-Science-Bookshelf](https://github.com/Jekahome/Computer-Science-Bookshelf)
 
 ## 🛠️ Knowledge that is important to me 
 - 📚 &nbsp;[Computer Science Bookshelf](https://github.com/Jekahome/Computer-Science-Bookshelf) - Computer Science Bookshelf
