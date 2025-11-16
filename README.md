@@ -34,7 +34,7 @@ A proponent of 'character leveling in reality'. Developing character and skills 
 - ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;[Basic Python syntax](https://github.com/Jekahome/Python_Example) - Basic Python syntax
 - ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;[OpenCV](https://github.com/Jekahome/OpenCV_example) - Examples of working with OpenCV
 
-  [Python](./python.mp3)
+  [Python](https://github.com/Jekahome/Jekahome/blob/main/python.mp3)
  
 
 
