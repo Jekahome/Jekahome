@@ -7,7 +7,7 @@ A proponent of 'character leveling in reality'. Developing character and skills 
  
 
 
-🕸️  My CS fantasy map [miri](https://miro.com/welcomeonboard/czhvVzJkcnpFMXNHdlU2SGorNUJEWW5tQ1A5eDZCNHN2ZG5SUVlWQUFUQVhKZVdlb1k4bXMzNitWNEQ0blpHbHRSbTU2RkRsbnpQb29OK0ZoTWpRQXpaR3pKVHRYbTd5RUhZSmZENG4rTlBtUU0wT2VJSHhSUU9PZUFYMGVSWE53VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=641526106638)
+🕸️  I created my CS fantasy [map](https://miro.com/welcomeonboard/czhvVzJkcnpFMXNHdlU2SGorNUJEWW5tQ1A5eDZCNHN2ZG5SUVlWQUFUQVhKZVdlb1k4bXMzNitWNEQ0blpHbHRSbTU2RkRsbnpQb29OK0ZoTWpRQXpaR3pKVHRYbTd5RUhZSmZENG4rTlBtUU0wT2VJSHhSUU9PZUFYMGVSWE53VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=641526106638)
 
 ## 🛠️ Knowledge that is important to me 
 - 📚 &nbsp;[Computer Science Bookshelf](https://github.com/Jekahome/Computer-Science-Bookshelf) - Computer Science Bookshelf
