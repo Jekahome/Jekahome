@@ -65,8 +65,9 @@ A proponent of 'character leveling in reality'. Developing character and skills 
   </table>
 </p>
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=jekahome&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 
 <!--
 **Jekahome/Jekahome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
