@@ -1,6 +1,8 @@
 # About Me
 A proponent of 'character leveling in reality'. Developing character and skills in real life can be more challenging than in games 😄, but the concept of visual progress and skill maps is a great way to stay motivated.
 
+🫂 I admire people who can design an electronic device, program it, assemble it with a soldering iron, and make it work.
+
 ♻️ The zombie movie I was completely satisfied with hasn't come out yet.
 
 🔭 I’m currently working on [Computer-Science-Bookshelf](https://github.com/Jekahome/Computer-Science-Bookshelf)
