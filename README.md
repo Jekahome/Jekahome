@@ -13,10 +13,7 @@ A proponent of 'character leveling in reality'. Developing character and skills 
 
 ## 🛠️ Knowledge that is important to me 
 - 📖 &nbsp;[Computer Science Bookshelf](https://github.com/Jekahome/Computer-Science-Bookshelf) - Computer Science Bookshelf
-- ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[Patterns](https://github.com/Jekahome/Patterns) - Pattern implementations and approaches to code organization
 - ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[Testing](https://github.com/Jekahome/Testing-in-Rust) - How to organize testing in Rust development
-- ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[Data structures](https://github.com/Jekahome/Data-Structures) - Implementation and understanding of data structures
-- ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[Algorithms](https://github.com/Jekahome/Algorithms) - Implementing algorithms and understanding complexity
 - ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[Security Web](https://github.com/Jekahome/Security-Web) - OWASP Overview
 - ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[Protocol TCP](https://github.com/Jekahome/TCP_Rust_example) - Example of working with TCP protocol
 - ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;[Protocol UDP](https://github.com/Jekahome/UDP_Rust_example) - Example of working with UDP protocol
